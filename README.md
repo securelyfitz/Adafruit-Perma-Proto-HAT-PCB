@@ -1,6 +1,7 @@
-# Adafruit-Perma-Proto-HAT-PCB
+# Raspberry Pi SAO Hat
+hastily derived from the Adafruit-Perma-Proto-HAT-PCB
 
-PCB files for the Adafruit Perma Proto HAT
+PCB files for the Adafruit Perma Proto HAT with the proto area removed and replaced with SAO headers
 
 Format is EagleCAD schematic and board layout
 
@@ -17,3 +18,4 @@ products from Adafruit!
 Designed by Adafruit Industries.  
 Creative Commons Attribution, Share-Alike license, check license.txt for more information
 All text above must be included in any redistribution
+Defiled by @securelyfitz.
